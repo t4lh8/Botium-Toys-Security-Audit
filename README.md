@@ -1,10 +1,8 @@
-# Botium Toys Security Audit
+# Botium Toys Security Audit - Google Cybersecurity Certificate
 
 An internal security audit of a fictional toy company, Botium Toys. I reviewed the IT manager's scope, goals and risk assessment, then checked which controls and compliance best practices (PCI DSS, GDPR, SOC 1/SOC 2) are in place. The audit ends with prioritized recommendations for the IT manager.
 
-This is the portfolio project from the Google Cybersecurity Certificate (course 2, "Play It Safe: Manage Security Risks").
-
-![Audit summary](assets/audit-summary.svg)
+Portfolio activity from course 2, "Play It Safe: Manage Security Risks".
 
 ## The scenario
 
@@ -17,6 +15,8 @@ Botium Toys is a small U.S. business with one location that serves as office, st
 **Risk score before the audit:** 8 of 10.
 
 ## Results
+
+<img src="assets/checklist-page1.png" alt="First page of the completed checklist" width="450">
 
 ### Controls assessment
 
