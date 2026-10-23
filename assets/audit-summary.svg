@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="720" height="300" rx="12" fill="#0d1117"/>
+  <text x="32" y="44" fill="#e6edf3" font-size="20" font-weight="600">Botium Toys internal audit: what is in place today</text>
+  <text x="32" y="68" fill="#8b949e" font-size="13">Green = in place / compliant, red = missing. Risk score before audit: 8 of 10.</text>
+
+  <g font-size="14" fill="#e6edf3">
+    <text x="32" y="118">Controls</text>
+    <text x="32" y="166">PCI DSS</text>
+    <text x="32" y="214">GDPR</text>
+    <text x="32" y="262">SOC 1 / SOC 2</text>
+  </g>
+
+  <!-- each unit = 30px wide, bar starts at x=170 -->
+  <g>
+    <rect x="170" y="100" width="150" height="26" rx="4" fill="#2ea043"/>
+    <rect x="320" y="100" width="270" height="26" rx="4" fill="#da3633"/>
+    <text x="602" y="118" fill="#e6edf3" font-size="13">5 of 14</text>
+
+    <rect x="170" y="148" width="120" height="26" rx="4" fill="#da3633"/>
+    <text x="302" y="166" fill="#e6edf3" font-size="13">0 of 4</text>
+
+    <rect x="170" y="196" width="60" height="26" rx="4" fill="#2ea043"/>
+    <rect x="230" y="196" width="60" height="26" rx="4" fill="#da3633"/>
+    <text x="302" y="214" fill="#e6edf3" font-size="13">2 of 4</text>
+
+    <rect x="170" y="244" width="60" height="26" rx="4" fill="#2ea043"/>
+    <rect x="230" y="244" width="60" height="26" rx="4" fill="#da3633"/>
+    <text x="302" y="262" fill="#e6edf3" font-size="13">2 of 4</text>
+  </g>
+</svg>
